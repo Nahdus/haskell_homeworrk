@@ -1,0 +1,24 @@
+https://www.cis.upenn.edu/~cis1940/spring13/lectures.html
+https://hackage.haskell.org/package/base-4.18.0.0/docs/Prelude.html
+
+
+http://learnyouahaskell.com/higher-order-functions#folds
+https://apfelmus.nfshost.com/articles/monoid-fingertree.html
+http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html
+
+
+https://www.youtube.com/watch?v=-fKAh4PVKbU
+
+https://www.youtube.com/watch?v=VgA4wCaxp-Q
+
+https://www.youtube.com/watch?v=e6tWJD5q8uw
+
+
+garbage collection
+http://gchandbook.org/contents.html
+
+
+solutions
+https://github.com/OctaviPascual/cis194-IntroductionToHaskell
+myfork 
+https://github.com/Nahdus/cis194-IntroductionToHaskell

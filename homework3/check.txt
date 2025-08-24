@@ -1,0 +1,254 @@
+
+Node 8 
+    (Node 3 
+        (Node 1 
+            (Node 0 
+            Leaf 
+            'g' 
+            Leaf) 
+        'c' 
+        Leaf) 
+    'a' 
+        (Node 0 
+        Leaf 
+        'e' 
+        Leaf)) 
+'x' 
+    (Node 3 
+        (Node 1 
+            (Node 0 
+            Leaf 
+            'h' 
+            Leaf) 
+        'd' 
+        Leaf) 
+    'b' 
+    (Node 0 
+    Leaf 
+    'f' 
+    Leaf))
+
+
+
+Node 4 
+    (Node 2 
+        (Node 1 
+            (Node 0 
+                    Leaf 
+                'g' 
+                    Leaf) 
+        'd' 
+        Leaf) 
+    'b' 
+        (Node 0 
+            Leaf 
+        'f' 
+            Leaf)) 
+'a' 
+    (Node 1 
+        (Node 0 
+            Leaf 
+        'e' 
+            Leaf) 
+    'c' 
+        (Node 0 
+            Leaf 
+        'h' 
+            Leaf))
+
+
+Node 4 
+    (Node 2 
+        (Node 1 
+            (Node 0 
+            Leaf 
+            'g' 
+            Leaf) 
+        'd' 
+        Leaf) 
+    'b' 
+    (Node 0 
+        Leaf 
+        'f' 
+        Leaf)) 
+'a' 
+    (Node 1 
+        (Node 0 Leaf 
+        'e' 
+        Leaf) 
+    'c' 
+        (Node 0 Leaf 
+        'h' 
+        Leaf))
+
+
+Node 3 
+        (Node 1 
+            (Node 0 
+                (Node 0 
+                    Leaf 
+                        'f' 
+                    Leaf) 
+                'd' 
+                Leaf) 
+            'b' 
+        (Node 0 
+            Leaf 
+            'e' 
+            Leaf)) 
+    'a' 
+    (Node 0 
+        (Node 0 
+                Leaf 
+                'g' 
+                Leaf) 
+            'c' 
+        (Node 0 
+                Leaf 
+                'h' 
+                Leaf))
+
+
+Node 2 
+    (Node 2 
+        (Node 1 
+            (Node 0 
+                    Leaf 
+                'g' 
+                    Leaf) 
+            'd' 
+            Leaf) 
+        'b' 
+            (Node 0 
+                Leaf 
+            'f' 
+                Leaf)) 
+    'a' 
+        (Node 1 
+            (Node 0 
+                    Leaf 
+                'e' 
+                    Leaf) 
+            'c' 
+            (Node 0 
+                    Leaf 
+                'h' 
+                    Leaf))
+
+
+
+Node 2 
+        (Node 1 
+                    (Node 0 
+                    Leaf 
+                'd' 
+                    Leaf) 
+            'b' 
+                    (Node 0 
+                    Leaf 
+                'f' 
+                    Leaf)) 
+    'a' 
+        (Node 1 
+                    (Node 0 
+                    Leaf 
+                'e' 
+                    Leaf) 
+            'c' Leaf)
+
+
+Node 2 
+    (Node 2 
+        (Node 1 
+            (Node 0 
+                    Leaf 
+                'g' 
+                    Leaf) 
+            'd' 
+            Leaf) 
+        'b' 
+        (Node 0 
+            Leaf 
+            'f' 
+            Leaf)) 
+    'a' 
+    (Node 1 
+        (Node 0 
+            Leaf 
+            'e' 
+            Leaf) 
+        'c' 
+        Leaf)
+
+
+Node 1 (Node 1 (Node 1 (Node 1 (Node 0 Leaf 
+                'j' Leaf) 
+            'g' Leaf) 
+        'd' (Node 1 (Node 0 Leaf 
+                    'k' Leaf) 
+                'i' Leaf)) 
+    'b' (Node 1 (Node 0 Leaf 
+            'h' Leaf) 
+        'f' Leaf)) 
+'a' (Node 1 (Node 0 Leaf 
+        'e' Leaf) 
+    'c' Leaf)
+
+
+
+Node 3 
+        (Node 2 
+                Leaf 
+            'e' 
+                (Node 1 
+                    Leaf 
+                'd' 
+                    (Node 0 
+                        Leaf 
+                    'b' 
+                        Leaf))) 
+    'h' 
+        (Node 2 
+                (Node 0 
+                    Leaf 
+                'a' 
+                    Leaf) 
+            'g' 
+                (Node 1 
+                    Leaf 
+                'f' 
+                    (Node 0 
+                        Leaf 
+                    'c' 
+                        Leaf)))
+
+
+
+Node 3 
+    (Node 2 
+        Leaf 
+    'f' 
+        (Node 1 
+                Leaf 
+            'e' 
+                (Node 0 
+                    Leaf 
+                'c' 
+                    Leaf))) 
+'i' 
+    (Node 2 
+        (Node 1 
+            Leaf 
+        'b' 
+        (Node 0 
+                Leaf 
+            'a' 
+                Leaf)) 
+    'h' 
+        Node 1 
+            Leaf 
+        'g' 
+            (Node 0 
+                Leaf 
+            'd' 
+                Leaf)))
